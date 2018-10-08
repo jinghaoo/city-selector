@@ -1,0 +1,4 @@
+.node_modules
+.gitignore
+public
+src
