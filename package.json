@@ -1,10 +1,18 @@
 {
   "name": "vue2-city-selector",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A Vue.js selector to city",
   "author": "jinghaoo <jingh1024@163.com>",
   "private": false,
   "main": "dist/vue2-city-selector.umd.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jinghaoo/city-selector.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinghaoo/city-selector/issues"
+  },
   "keywords": [
     "vue",
     "city",
