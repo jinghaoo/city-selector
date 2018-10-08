@@ -4,9 +4,9 @@ city-selector是一款基于vue2+的全国城市筛选器
 
 ## 截图
 
-![出发城市](./public/images/1.png)
+![出发城市](https://raw.githubusercontent.com/jinghaoo/city-selector/master/public/images/1.png)
 
-![请选择城市](./public/images/2.png)
+![请选择城市](https://raw.githubusercontent.com/jinghaoo/city-selector/master/public/images/2.png)
 
 ## 安装
 
